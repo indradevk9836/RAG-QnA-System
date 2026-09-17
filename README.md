@@ -29,4 +29,4 @@ This project is a locally hosted **question answering system** that allows users
 | Chat Interface       | Streamlit                                     |
 
 ## 📸 Screenshot
-![Rag Powered Question Answering System](https://github.com/SANSKARKURUDE/Rag-Powered-QnA-System/blob/main/Screenshot%202025-07-08%20150714.png)
+![Rag Powered Question Answering System](Screenshot.png)
